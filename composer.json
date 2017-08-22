@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "monolog/monolog": "^1.22",
+    "propel/propel": "~2.0@dev"
+  }
+}
